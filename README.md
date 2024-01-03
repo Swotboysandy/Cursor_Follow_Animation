@@ -1,1 +1,2 @@
 # Cursor_Follow_Animation
+Hey everyone, I'm excited about this cool Cursor Follow Animation I'm implementing on my website. It's a nifty feature that makes an element - say, a button or an icon - follow your mouse cursor as you move it around the screen. It's like magic! I'm using HTML, CSS, and JavaScript to create this effect. With HTML defining the structure, CSS for styling, and JavaScript to make the element track my cursor's movements, it's going to add an interactive and fun touch to my website. Can't wait for everyone to try it out!
